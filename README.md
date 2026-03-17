@@ -15,7 +15,8 @@ Hệ thống được thiết kế theo mô hình dữ liệu quan hệ chuẩn,
 2. **Products:** Danh mục sản phẩm và giá cả.
 3. **Orders:** Ghi nhận lịch sử giao dịch thực tế.
 
-*(Bạn có thể chèn hình ảnh sơ đồ 3 bảng mà bạn đã vẽ rất chuẩn lúc nãy vào đây)*
+<img width="1160" height="700" alt="Screenshot 2026-03-17 183618" src="https://github.com/user-attachments/assets/2c9e2cf4-aca0-449e-b6d7-1833488254a9" />
+
 
 ## 💡 Kỹ năng thực hành (Key Learnings)
 Thông qua dự án này, mình đã áp dụng thành thạo các kỹ năng Data Engineering cơ bản:
